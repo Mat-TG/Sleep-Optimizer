@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.venv/
+.DS_Store
+# keep your real personal sleep data out of the public repo:
+my_sleep_log.csv
