@@ -109,8 +109,8 @@ def main():
         ax.set_title("What affects my sleep? (linear regression)", loc="left")
         ax.invert_yaxis()
         fig.tight_layout()
-        fig.savefig("images/feature_impact.png", dpi=150)
-        print("\nChart saved to images/feature_impact.png")
+        fig.savefig("feature_impact.png", dpi=150)
+        print("\nChart saved to feature_impact.png")
     except ImportError:
         print("\n(matplotlib not installed - chart skipped)")
 
