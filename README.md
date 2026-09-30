@@ -20,7 +20,6 @@ Problems this idea addresses:
 * **People underestimate their own habits:** In a study by Drake et al. (2013), caffeine taken even 6 hours before bed measurably disrupted sleep, but participants did not notice it themselves ([Journal of Clinical Sleep Medicine, doi:10.5664/jcsm.3170](https://doi.org/10.5664/jcsm.3170)).
 * **Sleep trackers collect data but rarely explain it:** Wearables show *how* you slept, but seldom *why*.
 
-**Personal motivation:** As a dual student switching between university and work, my schedule varies a lot, and so does my sleep. I wanted to find out, with data instead of gut feeling, which of my habits actually matter.
 
 ## How is it used?
 
