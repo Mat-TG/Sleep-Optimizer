@@ -42,7 +42,7 @@ What would help most tonight:
   Go to bed 30 min earlier       +0.3 points
 ```
 
-<img src="feature_impact.png" width="600" alt="Learned effect of each habit on the sleep>
+<img src="./feature_impact.png" width="600" alt="Learned effect of each habit on the sleep
 
 **Users:** students, shift workers, parents, and anyone who wants to understand their own sleep.
 **Needs to consider:** logging must be quick, advice must be understandable, and health data must stay private (stored locally, not in the cloud).
